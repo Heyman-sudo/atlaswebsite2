@@ -1,0 +1,1 @@
+function fadeInPage(){for(let n=1;n<100;n++)t(.01*n);function t(t){setTimeout((function(){document.body.style.opacity=t}),1e3*t)}}function Redirect(t){window.open("https://"+t)}
